@@ -1,0 +1,11 @@
+
+gaspareV@gmail.com,Bici
+valerioV@gmail.com,Auto
+martaV@gmail.com,Auto
+fabioV@gmail.com,Bici
+maurizioV@gmail.com,Auto
+giovanniV@gmail.com,Auto
+giannaV@gmail.com,Bici
+claudioV@gmail.com,Auto
+luciaV@gmail.com,Bici
+andreaV@gmail.com,Auto

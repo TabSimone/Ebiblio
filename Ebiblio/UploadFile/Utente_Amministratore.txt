@@ -1,0 +1,12 @@
+
+simoneA@gmail.com,BO101,Capo
+omarA@gmail.com,BO301,Capo
+flavioA@gmail.com,BO206,Capo
+rudyA@gmail.com,BO211,Capo
+maryA@gmail.com,BO303,Capo
+davideA@gmail.com,BO121,Capo
+ciroA@gmail.com,BO215,Capo
+auroraA@gmail.com,BO125,Capo
+lorenzoA@gmail.com,BO110,Capo
+alexA@gmail.com,BO216,Capo
+lauraA@gmail.com,BO304,Capo

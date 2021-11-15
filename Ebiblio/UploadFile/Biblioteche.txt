@@ -1,0 +1,12 @@
+
+"BO101","Biblioteca Giuridica Antonio Cicu - Sezione Centrale","abis.bibliotecacicu@unibo.it",,"Via Zamboni, 27/29 Bologna 40126 BO","44.4968815","11.3502202,17","http://www.bub.unibo.it",50
+"BO110","Biblioteca Centrale Roberto Ruffilli","bibliotecaruffilli.info@unibo.it",,"Via S. Pellegrino Laziosi, 13 Forlì 47121 FC","44.2195643","12.041398,17","http://www.unibo.it/it/campus-forli/biblioteche",50
+"BO121","Biblioteca di discipline economico-aziendali Walter Bigiavi","info.bigiavi@unibo.it ",,"Via delle Belle Arti 33 ; P.za Scaravilli 1 Bologna 40126 BO","44.4970153","11.3501601,17","http://bigiavi.sba.unibo.it",100
+"BO125","Biblioteca Centrale del Campus di Rimini ","campusrimini.biblioteca@unibo.it",,"Via Vittime Civili di guerra, 5 Rimini 47921 RN","44.063683","12.5669767,17","http://www.unibo.it/it/campus-rimini/biblioteca",200
+"BO206","Biblioteca delle Arti - Sezione di Musica e Spettacolo","biblioteca.muspe@unibo.it",,"Via Barberia 4 Bologna 40123 BO","44.4912569","11.3369891,17","http://arti.sba.unibo.it",35
+"BO211","Biblioteca del Dipartimento di Storia Culture Civiltà - Sezione di Geografia","sgm.servizibiblio@unibo.it",,"Via Guerrazzi 20 Bologna 40124 BO","44.4908427","11.3488982,17","http://www.storia-culture-civilta.unibo.it/it/biblioteca",50
+"BO215","Biblioteca del Dipartimento di Storia Culture Civiltà - Sezione di Storia antica","dipstant.biblioteca@unibo.it",,"Via Zamboni 38 Bologna 40126 BO","44.4969184","11.349814,17","http://www.storia-culture-civilta.unibo.it/it/biblioteca",50
+"BO216","Biblioteca delle Arti - Sezione di Arti visive I. B. Supino","darvipem.biblioarti@unibo.it",,"Piazza G. Morandi 2 Bologna 40125 BO","44.48866","11.3526703,17","http://arti.sba.unibo.it",100
+"BO301","Biblioteca di Medicina - Biblioteca Clinica F. B. Bianchi","bibclinicabianchi.info@unibo.it",,"Via Massarenti 9 Bologna 40138 BO","44.4928636","11.3581252,17","http://clinica.sba.unibo.it",200
+"BO303","Biblioteca di Medicina - Biblioteca Biomedica","bibbiomed.info@unibo.it",,"Via Filippo Re, 8 Bologna 40126 BO ","44.5003594","11.3531465","http://biomedica.sba.unibo.it",35
+"BO304","Biblioteca di Medicina - Biblioteca Clinica F. B. Bianchi - Fondo di Scienze dermatologiche L. Martinotti","claudia.cavicchi@unibo.it",,"Via Massarenti, 1 Bologna 40138 BO","44.4936685,11","11.3558226,17","http://clinica.sba.unibo.it",70

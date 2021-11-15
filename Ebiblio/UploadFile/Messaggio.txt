@@ -1,0 +1,6 @@
+
+Prenotazione libro annullata,La sua prenotazione è stata annullata,21/08/2020,maryA@gmail.com,andreaV@gmail.com
+Consegna del libro,Il suo libro è in arrivo,13/04/2021,rudyA@gmail.com,paoloU@gmail.com
+Riattivazione account,Il suo account ora è ripristinato,03/03/2021,alexA@gmail.com,giacomoU@gmail.com
+Libro Arrivato,Il libro da lei ordinato è arrivato,02/01/2021,lauraA@gmail.com,marcoU@gmail.com
+Libro Arrivato,Il libro da lei ordinato è arrivato,02/01/2021,ciroA@gmail.com,barbaraU@gmail.com

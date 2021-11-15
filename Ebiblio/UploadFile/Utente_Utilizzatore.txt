@@ -1,0 +1,11 @@
+
+lidiaU@gmail.com,Studente,Attivo,24/04/2004
+marcoU@gmail.com,Meccanico,Attivo,25/03/2014
+riccardoU@gmail.com,Impiegato,Attivo,19/03/1996
+albertU@gmail.com,Barbiere,Attivo,24/07/2009
+giacomoU@gmail.com,Designer,Attivo,10/04/2008
+sandraU@gmail.com,Maestra,Attivo,23/05/2015
+paoloU@gmail.com,Astronauta,Attivo,16/09/2013
+barbaraU@gmail.com,Commessa,Attivo,13/09/2001
+andyU@gmail.com,Ingegnere,Attivo,11/04/1998
+dorisU@gmail.com,Biologa,Attivo,01/03/2002
